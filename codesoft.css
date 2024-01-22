@@ -1,0 +1,191 @@
+/* FCCF4D yeloo
+49BEB7 blue */
+*{
+    margin: 0;
+    border: border-box;
+}
+
+
+.toop{
+    /* width: 100%; */
+    height: 50px;
+    background-color: cornflowerblue;
+    display:flex;
+}
+.toop1{
+    width: 30%;
+}
+.fix{
+    width: 12%;
+    height: 20px;
+    color: white;
+    position: relative;
+    left: 10px;
+}
+
+.xx{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    position: relative;
+    top: 15px;
+    left: 40px;
+    justify-content: space-between;
+}
+.toop2{
+    display: flex;
+    position: relative;
+    top:15px ;
+}
+
+.toop3{
+    position: relative;
+    left:40px;
+}
+
+.toop22{
+    position: relative;
+    left: 20px;
+    right: 20px;
+}
+
+.slide{
+    position: relative;
+    right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(201, 201, 3);
+}
+.mail{
+    font-size: 1.1rem;
+}
+.t1toop{
+    display: flex;
+    height:50px ;
+    background-color: rgb(71, 129, 237);
+}
+.t1toop2{
+    height: 50px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fsrdivimg{
+    height: 600px;
+}
+
+.fsrdivimg1{
+    height: 100%;
+    width: 100%;
+    background-image: url(./mmm.jpeg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.fstdivsss{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    font-weight: 8px;
+    position: relative;
+    left: 90px;
+    top: 190px;
+}
+.qqq{
+    position: relative;
+    top: 10px;
+}
+.zzz:hover{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.zzz1{
+    padding: 15px;
+}
+.snd{
+    height: 200px;
+    width: 100%;
+    background-color:rgb(53, 108, 210);
+}
+
+.snd1{
+    display: flex;
+    justify-content: center;
+}
+
+.wwww{
+    display: flex;
+    position: relative;
+    top: 50px;
+    align-items: center ;
+    justify-content: space-between;
+}
+.snd11{
+    width: 30%;
+    position: relative;
+    left: 80px;
+}
+.dddd{
+    width: 50%;
+    position: relative;
+}
+.aryan{
+    font-size: 1.3rem;
+    color: aliceblue;
+}
+.snd12{
+    position: relative;
+    left: 25px;
+}
+.snd13{
+    position: relative;
+    left: 50px;
+}
+.aboutus{
+    height: 300px;
+    background-color: rgb(53, 108, 210);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.informationaboutussize{
+    font-size: 3rem;
+    color: antiquewhite;
+}
+.aoutusimage{
+    height: 200px;
+    width: 50%;
+    /* background-image: url(./); */
+    background-size: cover;
+    font-size: 101px;
+    position: relative;
+    top: 30px;
+}
+.shhit{
+    position: relative;
+    left: 80px;
+}
+.ourservices{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .imgg1{
+    width: 50%;
+    height: 100%;
+    background-image: url(./OIP\ \(1\).jpeg);
+}
+.imgg2{
+    width: 50%;
+    background-image: url(./OIP\ \(2\).jpeg);
+} */
